@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.700787402"
+   height="1122.51968504"
+   version="1.1"
+   id="svg274"
+   sodipodi:docname="HAIFURI_CHAR_0-9.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1377"
+     inkscape:window-height="834"
+     id="namedview276"
+     showgrid="false"
+     inkscape:zoom="0.21024131"
+     inkscape:cx="-397.47495"
+     inkscape:cy="561.25983"
+     inkscape:window-x="2910"
+     inkscape:window-y="335"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g272" />
+  <desc
+     id="desc2">C:\Users\you\Desktop\wowsmod\Creation\font\JMSDFfont\02 DXF\HAIFURI_CHAR_0-9.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs14">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path11" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="_0-0_"
+     id="g24">
+    <path
+       d="M 40.507121,288.31893 H 59.404759"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path16"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 59.404759,288.31893 V 269.4213"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path18"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 59.404759,269.4213 H 40.507121"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path20"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40.507121,269.4213 v 18.89763"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path22"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="_0-2_"
+     id="g268">
+    <path
+       d="m 352.31815,146.58665 v -9.44882"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path26"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 390.11342,99.342556 A 37.795276,37.795276 0 0 0 352.31815,137.13783"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path28"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 380.6646,628.47642 a 23.622047,23.622047 0 0 0 0,47.24409"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path30"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 418.45988,675.72051 a 23.622047,23.622047 0 0 0 0,-47.24409"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path32"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 466.43292,690.44784 a 61.417323,61.417323 0 0 0 -47.97304,-99.7667"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path34"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 380.6646,590.68114 a 61.417323,61.417323 0 0 0 -47.97304,99.7667"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path36"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 380.6646,590.68114 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path38"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 332.69156,690.44784 a 70.866142,70.866142 0 0 0 43.24863,127.00495"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path40"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 380.6646,628.47642 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path42"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 380.6646,675.72051 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path44"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 328.6961,326.11421 V 439.50004"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path46"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 328.6961,439.50004 h 89.76378"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path48"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 456.25515,326.11421 H 328.6961"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path50"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 366.49137,363.90949 v 37.79527"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path52"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 366.49137,401.70476 h 51.96851"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path54"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 456.25515,363.90949 H 366.49137"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path56"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40.507121,590.68114 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path58"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 588.53862,817.45279 V 779.65752"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path60"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 116.09767,61.547276 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path62"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 153.89295,61.547276 V 288.31893"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path64"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 153.89295,288.31893 H 116.09767"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path66"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 116.09767,288.31893 V 61.547276"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path68"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40.507121,590.68114 H 229.4835"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path70"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 305.07405,288.31893 H 494.05043"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path72"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 494.05043,288.31893 V 250.52366"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path74"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 305.07405,288.31893 V 250.52366"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path76"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 201.13704,326.11421 H 163.34177"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path78"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 163.34177,552.88586 h 37.79527"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path80"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 201.13704,552.88586 V 515.09059"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path82"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 201.13704,326.11421 v 151.1811"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path84"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 163.34177,515.09059 v 37.79527"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path86"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 248.38114,515.09059 V 477.29531"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path88"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 201.13704,515.09059 h 47.2441"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path90"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 248.38114,477.29531 h -47.2441"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path92"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40.507121,477.29531 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path94"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 163.34177,326.11421 40.507121,477.29531"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path96"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40.507121,515.09059 H 163.34177"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path98"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 89.205219,477.29531 H 163.34177"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path100"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 163.34177,386.05033 89.205219,477.29531"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path102"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 163.34177,386.05033 v 91.24498"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path104"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 418.45988,515.09059 a 37.795276,37.795276 0 0 0 0,-75.59055"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path106"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 418.45988,552.88586 a 75.590552,75.590552 0 0 0 0,-151.1811"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path108"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 456.25515,326.11421 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path110"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 739.71972,326.11421 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path112"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 739.71972,363.90949 H 683.02681"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path114"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 682.43824,326.11421 h 57.28148"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path116"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 682.43824,326.11421 A 113.42717,113.42717 0 0 0 569.64098,430.82173"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path118"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 122.37888,817.45279 H 78.302397"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path120"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 229.4835,638.9451 122.37888,817.45279"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path122"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 229.4835,590.68114 V 638.9451"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path124"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40.507121,628.47642 H 191.68822"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path126"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 191.68822,628.47642 78.302397,817.45279"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path128"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 683.02681,250.52366 a 37.795276,37.795276 0 0 0 0,-75.59055"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path130"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 739.71972,61.547276 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path132"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 739.71972,99.342556 699.99529,139.06698"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path134"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 683.02681,288.31893 A 75.590551,75.590551 0 0 0 699.99529,139.06698"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path136"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 607.43626,61.547276 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path138"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 607.43626,61.547276 H 739.71972"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path140"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,137.13783 v 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path142"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,174.93311 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path144"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 607.43626,99.342556 h 75.59055"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path146"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 645.23153,137.13783 683.02681,99.342556"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path148"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 380.6646,515.09059 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path150"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 418.45988,552.88586 H 380.6646"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path152"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,250.52366 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path154"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 683.02681,288.31893 H 645.23153"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path156"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 683.02681,363.90949 a 75.590551,75.590551 0 0 0 -68.89609,44.48974"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path158"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,401.70476 a 75.590551,75.590551 0 0 0 -31.10081,6.69447"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path160"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,401.70476 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path162"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 683.02681,515.09059 a 37.795276,37.795276 0 0 0 0,-75.59055"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path164"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 683.02681,552.88586 a 75.590552,75.590552 0 0 0 0,-151.1811"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path166"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,552.88586 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path168"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,439.50004 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path170"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,439.50004 a 37.795276,37.795276 0 0 0 0,75.59055"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path172"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,515.09059 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path174"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 305.07405,987.53151 v -37.7953"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path176"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 305.07405,987.53151 a 94.48819,94.48819 0 0 0 188.97638,0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path178"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 494.05043,949.73621 a 94.48819,94.48819 0 0 0 -188.97638,0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path180"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 494.05043,949.73621 v 37.7953"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path182"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 456.25515,949.73621 a 56.692914,56.692914 0 0 0 -113.38582,0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path184"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 456.25515,949.73621 v 37.7953"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path186"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 342.86933,987.53151 a 56.692913,56.692913 0 0 0 113.38582,0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path188"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 342.86933,949.73621 v 37.7953"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path190"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 375.94019,713.51578 a 33.07087,33.07087 0 0 0 0,66.14174"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path192"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 375.94019,779.65752 h 47.2441"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path194"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 423.18429,779.65752 a 33.07087,33.07087 0 0 0 0,-66.14174"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path196"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 375.94019,713.51578 h 47.2441"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path198"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 607.43626,231.62602 a 47.244094,47.244094 0 0 0 37.79527,18.89764"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path200"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 607.43626,231.62602 -34.11018,17.05509"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path202"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 573.32608,248.68111 a 85.03937,85.03937 0 0 0 71.90545,39.63782"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path204"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 308.75915,513.24804 a 85.03937,85.03937 0 0 0 71.90545,39.63782"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path206"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 342.86933,496.19295 -34.11018,17.05509"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path208"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 342.86933,496.19295 a 47.244094,47.244094 0 0 0 37.79527,18.89764"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path210"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 588.53862,779.65752 h 56.69291"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path212"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 645.23153,817.45279 H 588.53862"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path214"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 645.23153,817.45279 A 113.38583,113.38583 0 0 0 758.61736,704.06697"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path216"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 758.61736,656.82287 v 47.2441"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path218"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 692.47563,722.9646 a 66.141732,66.141732 0 0 0 27.21321,-5.85765"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path220"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 645.23153,779.65752 a 75.590551,75.590551 0 0 0 74.45731,-62.55057"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path222"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 692.47563,685.16933 a 28.346457,28.346457 0 0 0 0,-56.69291"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path224"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 635.78271,685.16933 h 56.69292"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path226"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 635.78271,628.47642 a 28.346457,28.346457 0 0 0 0,56.69291"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path228"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 635.78271,628.47642 h 56.69292"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path230"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 635.78271,722.9646 h 56.69292"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path232"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 305.07405,250.52366 436.91582,162.62914"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path234"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 436.91582,162.62914 A 37.795276,37.795276 0 0 0 409.01106,99.342556"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path236"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 461.04921,191.96448 A 75.590551,75.590551 0 0 0 409.01106,61.547276"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path238"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 494.05043,250.52366 H 373.21045"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path240"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 373.21045,250.52366 87.83876,-58.55918"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path242"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 314.52287,146.58665 h 37.79528"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path244"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 390.11342,61.547276 h 18.89764"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path246"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 390.11342,99.342556 h 18.89764"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path248"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 635.78271,590.68114 a 66.141733,66.141733 0 0 0 0,132.28346"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path250"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 635.78271,590.68114 h 56.69292"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path252"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 758.61736,656.82287 A 66.141732,66.141732 0 0 0 692.47563,590.68114"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path254"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 375.94019,817.45279 h 47.2441"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path256"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 423.18429,817.45279 A 70.866142,70.866142 0 0 0 466.43292,690.44784"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path258"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 569.64098,430.82173 v 46.47358"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path260"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 569.64098,477.29531 a 75.590551,75.590551 0 0 0 75.59055,75.59055"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path262"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 314.52287,137.13783 v 9.44882"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path264"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 390.11342,61.547276 A 75.590551,75.590551 0 0 0 314.52287,137.13783"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path266"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="ADD_LINE"
+     id="g270" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g272" />
+</svg>
